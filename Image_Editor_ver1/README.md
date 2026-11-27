@@ -7,9 +7,7 @@
    ![unzip](https://user-images.githubusercontent.com/67797025/152630247-fb9752ef-ddbf-441b-b545-4c2a9aeb32fb.JPG)
 3. Change the your directory UPLOAD_FOLDER and path variable.   
    - UPLOAD_FOLDER
-     ![new1](https://user-images.githubusercontent.com/67797025/152630312-820deaef-4dca-49e3-ba1b-769521d24bd0.JPG)
    - path
-     ![new2](https://user-images.githubusercontent.com/67797025/152630336-27141284-95dd-4141-8753-f6f1d9051655.JPG)
 4. Run main.py
 
 5. copy and paste address in the window
